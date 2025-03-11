@@ -19,7 +19,7 @@ cuisine.forEach(area => {
         console.log(query)
 
         // Redirect to the search results page with the query as a URL parameter
-        window.location.href = `/html/area.html?query=${encodeURIComponent(query)}`;
+        window.location.href = `../html/area.html?query=${encodeURIComponent(query)}`;
     })
 
 
