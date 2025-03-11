@@ -203,7 +203,7 @@ nav {
     align-items: center;
     height: 100vh;
     flex-direction: column;
-    background-image: url("/pexels-pixabay-262945.jpg");
+    background-image: url("../pexels-pixabay-262945.jpg");
    background-repeat: no-repeat;
    background-size: cover;
    background-position: center;
